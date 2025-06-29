@@ -1,0 +1,42 @@
+# Logs and temporary files
+logs/
+*.log
+
+# Dependency directories
+node_modules/
+
+# Build output
+dist/
+# Environment variables
+.env
+
+# IDE specific files
+.vscode/
+
+
+# OS generated files.DS_Store
+Thumbs.db
+# Temporary files
+*.tmp
+# Coverage reports
+coverage/
+
+
+# Miscellaneous
+*.bak
+
+# Ignore npm debug log files
+npm-debug.log*
+
+# Ignore yarn debug log files
+yarn-debug.log*
+
+# Ignore pnpm debug log files
+pnpm-debug.log*
+# Ignore package-lock.json and yarn.lock
+package-lock.json
+
+
+yarn.lock   
+
+pnpm-lock.yaml
